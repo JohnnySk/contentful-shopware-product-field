@@ -1,0 +1,1 @@
+# contentful-shopware-product-field
